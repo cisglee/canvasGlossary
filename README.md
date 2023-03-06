@@ -17,7 +17,7 @@ $ pip install -r requirements.txt
 ```
 
 ### Usage
-###`retrieve_glossary`
+### `retrieve_glossary`
 
 ```python
 from retrieve_glossary import retrieve_glossary
@@ -28,7 +28,7 @@ print(glossary)
 # {'Term 1': 'Definition 1', 'Term 2': 'Definition 2', ...}
 ```
 
-###`set_tool_tips`
+### `set_tool_tips`
 ```python
 from retrieve_glossary import set_tool_tips
 
